@@ -1,7 +1,7 @@
-# Anggota Kelompok 1 :
+## Anggota Kelompok 1 :
 
-Moch Surya Ramadhoni
-Rachmad Fikri Dwi Prayogi 
-Ario Satria Wahyu Pratama
-Mochammad Irfan Efendi
-Jalu Wira Aditama
+<br/> Moch Surya Ramadhoni
+<br/> Rachmad Fikri Dwi Prayogi 
+<br/> Ario Satria Wahyu Pratama
+<br/> Mochammad Irfan Efendi
+<br/> Jalu Wira Aditama
